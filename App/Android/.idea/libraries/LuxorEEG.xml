@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LuxorEEG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MeditationMate/src/main/lib/LuxorEEG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

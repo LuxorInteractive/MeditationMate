@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ThinkGearLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MeditationMate/src/main/lib/ThinkGearLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

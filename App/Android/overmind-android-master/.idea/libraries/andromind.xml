@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="andromind">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/Andromind/bin/andromind.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

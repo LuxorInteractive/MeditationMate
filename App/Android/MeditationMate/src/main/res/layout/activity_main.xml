@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Getting Started"
+            android:id="@+id/btn_getting_started"
+            android:layout_marginLeft="63dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:onClick="gettingStarted"
+            android:layout_marginBottom="119dp"
+            android:gravity="center" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Configure"
+            android:id="@+id/btn_configure"
+            android:layout_alignTop="@+id/btn_getting_started"
+            android:onClick="mindwaveConfigure"
+            android:layout_toRightOf="@+id/btn_getting_started"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Welcome to"
+            android:id="@+id/welcomeMsg"
+            android:layout_marginTop="31dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/medimatemogo_250px"
+            android:layout_below="@+id/welcomeMsg"
+            android:layout_centerHorizontal="true" />
+
+        <ExpandableListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/expandableListView"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/btn_getting_started"
+            android:layout_below="@+id/imageView" />
+
+
+    </RelativeLayout>
+</FrameLayout>
