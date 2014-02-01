@@ -1,0 +1,90 @@
+Domain
+-------------------------------
+https://dcc.godaddy.com/dcc50/DomainDetails.aspx?identifier=OHpOTurdV6JOlp4BbHdMt3s1IpdSOy5lVcsOfDLQBk6IUmXEkBojbKTj6nJf3AEE&sa=isc=bb2470&prog_id=&marketid=en-US&regionsite=www
+
+Hosting
+-------------------------------
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: meditationmate.com
+| Ip: 216.119.128.130 (n)
+| HasCgi: y
+| UserName: meditati
+| PassWord: $p1o2i3u4$
+| CpanelMod: x3
+| HomeRoot: /home
+| Quota: unlimited Meg
+| NameServer1: sf9p1s47.a2hosting.com
+| NameServer2: ns3.a2hosting.com
+| NameServer3: ns4.a2hosting.com
+| NameServer4: 
+| Contact Email: josh.garrett33@gmail.com
+| Package: default
+| Feature List: default
+| Language: en
++===================================+
+
+Email
+-------------------------------
+https://meditationmate.com:2096/cpsess9312729972/3rdparty/roundcube/?_task=mail
+
+Non-SSL Settings
+(NOT Recommended)
+Username:	email@meditationmate.com
+Password:	$p1o2i3u4$
+Incoming Server:	mail.meditationmate.com
+IMAP: Port 143
+POP3: Port 110
+Outgoing Server:	mail.meditationmate.com
+SMTP: Port 25
+Authentication is required for IMAP, POP3, and SMTP.
+
+
+Platform - Wordpress
+-------------------------------
+
+Admin URL
+http://meditationmate.com/wp-admin/
+
+Username: jgarrett. 
+Password: $Grantmew1sd0m$
+
+Configs
+
+/home/meditati/public_html/wp-config.php
+/home/meditati/public_html/data.sql 
+
+Networks
+-------------------------------
+
+LinkedIn
+http://www.linkedin.com/company/meditation-mate
+
+Youtube 
+https://www.youtube.com/meditationmate
+youtube@meditationmate.com / $p1o2i3u4
+
+Twitter
+https://twitter.com/MeditationMate
+
+Google+
+https://plus.google.com/u/0/106593338821668152269/posts
+
+Hardware / Technology Partners
+-------------------------------
+
+iHealth
+http://www.ihealthlabs.com/
+
+Neurosky
+http://neurosky.com/products-markets/eeg-biosensors/hardware/
+
+Your Order ID is: 44052
+
+Interaxon
+http://interaxon.ca/index.html
+
+Basis
+http://www.mybasis.com/
